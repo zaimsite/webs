@@ -4,25 +4,25 @@
     "description": "",
     "icons": [
         {
-            "src": "https:\/\/localhost\/wordpress\/wp-content\/plugins\/pwa-for-wp\/images\/logo.png",
+            "src": "https:\/\/zaimsite.github.io\/webs\/wp-content\/plugins\/pwa-for-wp\/images\/logo.png",
             "sizes": "192x192",
             "type": "image\/png",
             "purpose": "any"
         },
         {
-            "src": "https:\/\/localhost\/wordpress\/wp-content\/plugins\/pwa-for-wp\/images\/logo.png",
+            "src": "https:\/\/zaimsite.github.io\/webs\/wp-content\/plugins\/pwa-for-wp\/images\/logo.png",
             "sizes": "192x192",
             "type": "image\/png",
             "purpose": "maskable"
         },
         {
-            "src": "https:\/\/localhost\/wordpress\/wp-content\/plugins\/pwa-for-wp\/images\/logo-512x512.png",
+            "src": "https:\/\/zaimsite.github.io\/webs\/wp-content\/plugins\/pwa-for-wp\/images\/logo-512x512.png",
             "sizes": "512x512",
             "type": "image\/png",
             "purpose": "any"
         },
         {
-            "src": "https:\/\/localhost\/wordpress\/wp-content\/plugins\/pwa-for-wp\/images\/logo-512x512.png",
+            "src": "https:\/\/zaimsite.github.io\/webs\/wp-content\/plugins\/pwa-for-wp\/images\/logo-512x512.png",
             "sizes": "512x512",
             "type": "image\/png",
             "purpose": "maskable"
@@ -30,7 +30,7 @@
     ],
     "screenshots": [
         {
-            "src": "https:\/\/localhost\/wordpress\/wp-content\/plugins\/pwa-for-wp\/images\/logo-512x512.png",
+            "src": "https:\/\/zaimsite.github.io\/webs\/wp-content\/plugins\/pwa-for-wp\/images\/logo-512x512.png",
             "sizes": "512x512",
             "type": "image\/png",
             "purpose": "maskable"
@@ -40,6 +40,6 @@
     "theme_color": "#D5E0EB",
     "display": "standalone",
     "orientation": "portrait",
-    "start_url": "https:\/\/localhost\/wordpress\/",
-    "scope": "https:\/\/localhost\/wordpress\/"
+    "start_url": "https:\/\/zaimsite.github.io\/webs\/index.html",
+    "scope": "https:\/\/zaimsite.github.io\/webs\/"
 }
